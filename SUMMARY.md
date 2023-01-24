@@ -9,3 +9,5 @@
   * [02.英音美音磨耳朵100句](gao-xiao-mo-er-duo/02.-ying-yin-mei-yin-mo-er-duo-100-ju.md)
   * [03.英音美音磨耳朵99句](gao-xiao-mo-er-duo/03.-ying-yin-mei-yin-mo-er-duo-99-ju.md)
   * [04.英音美音磨耳朵49句](gao-xiao-mo-er-duo/04.-ying-yin-mei-yin-mo-er-duo-49-ju.md)
+* [精听](jing-ting/README.md)
+  * [越狱片段](jing-ting/yue-yu-pian-duan.md)
